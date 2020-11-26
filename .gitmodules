@@ -1,0 +1,3 @@
+[submodule "https://bitbucket.org/endarebvba/react-native-datalogic-scanner"] 
+  path = path_to_submodule 
+  url = git://url-of-source/
